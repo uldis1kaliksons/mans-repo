@@ -1,0 +1,29 @@
+header {
+    background-color: aliceblue;
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#pavasaris {
+    background-color: aquamarine;
+}
+
+.content {
+    background-color: chocolate;
+}
+
+div {
+    background-color: darkcyan;
+}
+
+ul > li {
+    background-color: darkgoldenrod;
+}
+
+.d-flex-p-5 {
+    display: flex;
+    padding: 5px;
+}
